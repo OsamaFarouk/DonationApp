@@ -1,0 +1,3 @@
+osama,ahmed,osama@gmail.com,12345678os,01000748445,False
+ali,hasan,ali@gmail.com,12345678ali,01000748223,False
+osama,ahmed,osama2@gmail.com,12345678k,01000748443,True
